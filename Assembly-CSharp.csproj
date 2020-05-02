@@ -50,6 +50,7 @@
      <Compile Include="Assets\Scripts\Player.cs" />
      <Compile Include="Assets\Scripts\Powerup.cs" />
      <Compile Include="Assets\Scripts\SpawnManager.cs" />
+     <Compile Include="Assets\Scripts\UIManger.cs" />
      <Compile Include="Assets\Scripts\monoapp.cs" />
  <Reference Include="UnityEngine">
  <HintPath>/Users/roynunezjr/Unity Editors/2020.1.0b4/Unity.app/Contents/Managed/UnityEngine/UnityEngine.dll</HintPath>
