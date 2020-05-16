@@ -39,6 +39,13 @@ public class Player : MonoBehaviour
     private int _score;
 
     private UIManger _uiManager;
+    
+    [SerializeField]
+    private AudioClip _laserSoundClip;
+    
+    [SerializeField]
+    private AudioSource _audioSource;
+    
     void Start()
     {
         transform.position = new Vector3(0, 0, 0);
