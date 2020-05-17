@@ -1,4 +1,0 @@
-/Users/roynunez/UnityProjects/GalaxyShooter/obj/Debug/netcoreapp3.1/Galaxy shooter.csprojAssemblyReference.cache
-/Users/roynunez/UnityProjects/GalaxyShooter/obj/Debug/netcoreapp3.1/Galaxy shooter.csproj.CoreCompileInputs.cache
-/Users/roynunez/UnityProjects/GalaxyShooter/obj/Debug/netcoreapp3.1/Galaxy shooter.AssemblyInfoInputs.cache
-/Users/roynunez/UnityProjects/GalaxyShooter/obj/Debug/netcoreapp3.1/Galaxy shooter.AssemblyInfo.cs
