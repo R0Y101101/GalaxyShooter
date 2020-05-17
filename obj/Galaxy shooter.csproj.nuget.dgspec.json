@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/roynunezjr/Galaxy shooter/Galaxy shooter.csproj": {}
+    "/Users/roynunez/UnityProjects/GalaxyShooter/Galaxy shooter.csproj": {}
   },
   "projects": {
-    "/Users/roynunezjr/Galaxy shooter/Galaxy shooter.csproj": {
+    "/Users/roynunez/UnityProjects/GalaxyShooter/Galaxy shooter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/roynunezjr/Galaxy shooter/Galaxy shooter.csproj",
+        "projectUniqueName": "/Users/roynunez/UnityProjects/GalaxyShooter/Galaxy shooter.csproj",
         "projectName": "Galaxy shooter",
-        "projectPath": "/Users/roynunezjr/Galaxy shooter/Galaxy shooter.csproj",
-        "packagesPath": "/Users/roynunezjr/.nuget/packages/",
-        "outputPath": "/Users/roynunezjr/Galaxy shooter/obj/",
+        "projectPath": "/Users/roynunez/UnityProjects/GalaxyShooter/Galaxy shooter.csproj",
+        "packagesPath": "/Users/roynunez/.nuget/packages/",
+        "outputPath": "/Users/roynunez/UnityProjects/GalaxyShooter/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/roynunezjr/.nuget/NuGet/NuGet.Config"
+          "/Users/roynunez/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.201/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.202/RuntimeIdentifierGraph.json"
         }
       }
     }

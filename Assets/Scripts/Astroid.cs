@@ -6,10 +6,7 @@ public class Astroid : MonoBehaviour
 {
     private float _rotateSpeed = 3.0f;
     // Start is called before the first frame update
-    void Start()
-    {
-        
-    }
+    
 
     [SerializeField]
     private GameObject _explosionPrefab;
